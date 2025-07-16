@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'HaloFont';
-    src: url('../fuentes/Halo.woff') format('woff');
+    src: url('Halo.woff') format('woff');
   }
   
   h1 {
